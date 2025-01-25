@@ -11,6 +11,9 @@
 # Binaries for project
 rss_feed_aggregator
 
+# Vendor directory
+vendor/
+
 # Test binary, built with `go test -c`
 *.test
 
