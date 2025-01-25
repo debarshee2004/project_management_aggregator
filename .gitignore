@@ -8,6 +8,9 @@
 *.so
 *.dylib
 
+# Binaries for project
+rss_feed_aggregator
+
 # Test binary, built with `go test -c`
 *.test
 
