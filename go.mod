@@ -1,4 +1,4 @@
-module example/project_management
+module server/project_management
 
 go 1.21
 
